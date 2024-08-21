@@ -1,0 +1,3 @@
+# templates/myfile.tpl
+This is the content of the file.
+Variable Content: abrams
